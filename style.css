@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jack{
+    font-size: 40px;
+    color: #FF1C75;
+    font-weight: bold;
+}
+
+.sub-title{
+    font-size: 30px;
+    margin-top: 30%;
+}
+
+.first{
+    margin-left: 15%;
+}
+
+.half-width{
+    float: left;
+    width: 35%;
+}
+
+img{
+    width: 100%;
+}
+
+header, section{
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.primary-button{
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, #FF1C75, #FF5096);
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 30px;
+    color: dimgray;
+}
+
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
+}
+
+
+.bio-area{
+    background-image: url(images/biography-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: auto;
+    overflow: hidden;
+}
+
+.bio{
+    padding-left: 100px;
+}
+
+
+.threebyone{
+    width: 25%;
+    float: left;
+    margin: 1%;
+}
+
+.margin1 {
+    margin-left: 10%;
+}
+
+.margin2 {
+    margin-right: 10%;
+}
+
+.latest{
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.work-area{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+    overflow: hidden;
+}
+
+/* feedback */
+
+.client-feedback{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-position: top;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.client-name{
+    font-weight: bold;
+    color: black;
+}
+
+.client-designation {
+    margin-top: -18px;
+    padding: 0;
+    font-size: 13px;
+
+}
+
+.client-quote {
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    line-height: 1.6em;
+}
+
+.massege-box{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-image: linear-gradient(45deg, #FF5096, #FF1C75);
+    border-radius: 8px;
+    padding: 35px 0 55px 0;
+    margin-top: 75px;
+    color: white;
+}
+
+.massege-title{
+    color: white;
+    font-size: 14px;
+}
+
+.contact-mail{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.footer-text {
+    font-size: 14px;
+    text-align: center;
+    font
+}
